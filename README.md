@@ -1,4 +1,4 @@
-## Opa eu sou o Erick Rodrigues, estudante de Engenharia de Controle e Automação e tenho uma paixão pelo universo Geek!
+## Opa, sou o Erick Rodrigues, estudante de Engenharia de Controle e Automação e tenho uma paixão pelo universo Geek!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Erick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
